@@ -14,8 +14,6 @@ MH.Thamrin Univeristy is a well known university in Indonesia. MH. Thamrin Unive
 <img width="2035" height="1141" alt="image" src="https://github.com/user-attachments/assets/fb99f22a-7f62-4137-a1a6-bfb5157d3257" />
 - Created the database structure using CREATE.
 
-| ! <img width="1906" height="1069" alt="image" src="https://github.com/user-attachments/assets/9d6c4bb6-ebd8-4fc2-80a0-5279977855cb" /> | ! <img width="1906" height="1069" alt="image" src="https://github.com/user-attachments/assets/9d6c4bb6-ebd8-4fc2-80a0-5279977855cb" /> |
-|-------------------------------|-------------------------------|
 <p align="center">
   <img width="1906" height="1069" alt="image" src="https://github.com/user-attachments/assets/9d6c4bb6-ebd8-4fc2-80a0-5279977855cb" />
   <img width="1908" height="1070" alt="image" src="https://github.com/user-attachments/assets/ec3674cb-3981-4701-bc61-21227ebbef9d" />
